@@ -1,21 +1,5 @@
 # Programação de Funcionalidades
 
-Este documento deverá registrar a implementação das funcionalidades da aplicação.
+> Documento reservado para as etapas de implementação.
 
-## Funcionalidade 1
-
-### Requisito atendido
-
-RF-XX
-
-### Responsável
-
-A definir.
-
-### Artefatos da funcionalidade
-
-- A definir.
-
-### Instruções de acesso
-
-A definir.
+A **Etapa 2** define requisitos, metodologia, fluxos e protótipo de baixa fidelidade. A implementação das funcionalidades e seus respectivos artefatos serão registrados aqui nas etapas seguintes.
