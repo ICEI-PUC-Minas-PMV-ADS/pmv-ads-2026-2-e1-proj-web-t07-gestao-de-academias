@@ -1,16 +1,5 @@
 # Template padrão da Aplicação
 
-Descrever o padrão visual da aplicação **Gestão de Academias**.
+> Documento reservado para uma etapa posterior de implementação.
 
-## Identidade visual
-
-- Cores:
-- Tipografia:
-- Componentes:
-- Cabeçalho:
-- Navegação:
-- Rodapé:
-
-## Estrutura padrão das telas
-
-Descrever os elementos compartilhados entre as páginas da aplicação.
+Na **Etapa 2**, os padrões de navegação, responsividade e interação definidos para a solução estão documentados em [Projeto de Interface](04-Projeto%20de%20Interface.md) e no protótipo editável.
